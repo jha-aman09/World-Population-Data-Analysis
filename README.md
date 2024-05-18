@@ -1,11 +1,11 @@
 # 📊 Exciting Update: Visualizing Data Distribution with Bank Marketing Dataset! 📊
 
-Welcome to the Data Distribution Visualization project with the Bank Marketing Dataset! This repository encapsulates Task 1 of my data analysis journey, where I focused on creating insightful visualizations to understand the distribution of key variables.
+Welcome to the Data Distribution Visualization project with the Bank Marketing Dataset! This repository encapsulates 1st project of my data analysis journey, where I focused on creating insightful visualizations to understand the distribution of key variables.
 
 # Key Insights
 Data Distribution Visualization: Utilized bar charts and histograms to visually represent the distribution of categorical or continuous variables within the Bank Marketing Dataset.
 # Knowledge Gained
-Task 1 provided hands-on experience in data visualization techniques, enhancing proficiency in interpreting data distributions and uncovering insights crucial for decision-making.
+It provided hands-on experience in data visualization techniques, enhancing proficiency in interpreting data distributions and uncovering insights crucial for decision-making.
 # Keywords
 Data Science
 Internship
