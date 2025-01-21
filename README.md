@@ -3,8 +3,8 @@
 Welcome to the **World Population Data Analysis Project**! This is a personal initiative to analyze global population trends, create insightful visualizations, and gain a deeper understanding of demographic patterns. The project leverages various data visualization and analysis techniques to derive meaningful insights from the dataset.
 
 ## 👨‍💻 Author
-**[Aman Jha](github.com/jha-aman09)**  
-Aspiring data scientist passionate about leveraging data for impactful storytelling and actionable insights.
+**Github:** [Aman Jha](github.com/jha-aman09)
+**LinkedIn:** [Aman Jha](https://www.linkedin.com/in/aman--jha)
 
 ## 🔗 Project Links
 - **Google Colab Notebook**: [World Population data analysis.ipynb](https://colab.research.google.com/drive/1hqWHEV4Te2nJe0maH8p4-QsLVL_Yzhuv?usp=sharing)
