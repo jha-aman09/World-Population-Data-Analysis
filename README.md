@@ -12,6 +12,15 @@ Aspiring data scientist passionate about leveraging data for impactful storytell
 
 ## 📂 File Structure
 Here's an overview of the files in this repository:
+```
+World-Population-Data-Analysis/
+├── README.md
+├── World_Population.pbix
+├── World_Population_data_analysis.ipynb
+├── total.csv
+├── metadata.csv
+└── total_cleaned.csv
+```
 
 1. **README.md**: This file, containing detailed information about the project.
 2. **World_Population.pbix**: A Power BI file for advanced visualization of the world population dataset.
