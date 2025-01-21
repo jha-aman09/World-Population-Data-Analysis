@@ -104,7 +104,7 @@ pip install -r requirements.txt
 ### 3. Run the Jupyter Notebook
 After setting up your environment, you can open the Jupyter notebook `World_Population_data_analysis.ipynb`:
 ```bash
-jupyter notebook
+jupyter World_Population_data_analysis.ipynb
 ```
 Navigate to the notebook and run the cells to see the analysis and visualizations.
 
