@@ -16,8 +16,8 @@ Here's an overview of the files in this repository:
 1. **README.md**: This file, containing detailed information about the project.
 2. **World_Population.pbix**: A Power BI file for advanced visualization of the world population dataset.
 3. **World_Population_data_analysis.ipynb**: A Jupyter Notebook containing Python code for data analysis and visualization.
-4. **total.csv**: Raw population data for all countries from 1960 to 2022.
-5. **metadata.csv**: Additional metadata about countries (e.g., income group, region).
+4. **Total.csv**: Raw population data for all countries from 1960 to 2022.
+5. **Metadata.csv**: Additional metadata about countries (e.g., income group, region).
 6. **total_cleaned.csv**: The cleaned dataset used for analysis.
 
 ## 📜 Code Explanation
