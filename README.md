@@ -1,6 +1,6 @@
-# 🌍 World Population Data Analysis Project
+# 🌍 World Population Data Analysis
 
-Welcome to the **World Population Data Analysis Project**! This is a personal initiative to analyze global population trends, create insightful visualizations, and gain a deeper understanding of demographic patterns. The project leverages various data visualization and analysis techniques to derive meaningful insights from the dataset.
+Welcome to the **World Population Data Analysis**! This is a personal initiative to analyze global population trends, create insightful visualizations, and gain a deeper understanding of demographic patterns. The project leverages various data visualization and analysis techniques to derive meaningful insights from the dataset.
 
 ## 👨‍💻 Author
 - **Github:** [Aman Jha](github.com/jha-aman09)
